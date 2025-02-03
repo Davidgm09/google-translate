@@ -1,8 +1,5 @@
 # React + TypeScript + Vite
 
-
-Aquí tienes una descripción intermedia para tu portafolio:
-
 📖 Clon de Google Translate | React, TypeScript, ChatGPT
 Este proyecto es una réplica funcional de Google Translate, desarrollada con React y TypeScript. Implementa la API de ChatGPT para generar traducciones dinámicas y precisas.
 
